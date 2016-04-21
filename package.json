@@ -1,7 +1,7 @@
 {
   "name": "My Server",
   "version": "0.0.0",
-  "description": "",
+  "description": "https://github.com/aahmyu/Simple-Server",
   "main": "server.js",
   "repository": "",
   "author": "aahmyu <aahmyu@gmail.com>",
